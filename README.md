@@ -108,7 +108,6 @@ cv2.destoryAllWindows()
 ![output](./output1.png)
 <br>
 
-
 ### ii) HSV to RGB and BGR:
 ![output](./output2.png)
 <br>
