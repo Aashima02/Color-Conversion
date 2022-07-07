@@ -3,7 +3,7 @@
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
 ## SOFTWARE REQUIRED:
-Anaconda - Python 3.7
+Anaconda - Python 3.7 
 
 ## ALGORITHM:
 
